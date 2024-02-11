@@ -1,0 +1,50 @@
+Aventuras Estranhas;2017-06-15;80000000;Netflix
+Miragem Quântica;2004-09-28;45000000;Amazon Prime Video
+Eclipse à Meia-Noite;2010-03-12;120000000;HBO Max
+Eco Celestial;2019-11-02;60000000;Netflix
+Nexus Nebular;2008-08-18;35000000;Amazon Prime Video
+Odisseia Galáctica;2015-04-09;95000000;HBO Max
+Protocolo Enigma;2002-12-04;25000000;HBO
+Crônicas Cibernéticas;2011-07-30;55000000;Netflix
+Travessia Temporal;2018-02-17;70000000;HBO
+Horizonte Estelar;2006-05-22;40000000;Netflix
+Vórtice Ascendente;2000-11-11;15000000;Netflix
+Fluxo Solar;2013-09-08;85000000;HBO
+Paradoxo Paralelo;2022-01-15;110000000;Netflix
+Matriz Infinita;2005-06-27;50000000;Amazon Prime Video
+Enclave Eco;2016-12-19;75000000;Netflix
+Protocolo Pinnacle;2003-03-05;30000000;HBO
+Quasar Quântico;2009-10-14;65000000;HBO
+Cataclismo Cósmico;2014-05-31;100000000;HBO Max
+Além das Fronteiras;2021-08-08;90000000;Netflix
+Deriva Dimensional;2007-01-23;20000000;Netflix
+Nexus Nova;2012-04-03;110000000;Netflix
+Expedição ao Eclipse;2017-09-28;55000000;Amazon Prime Video
+Portão Galáctico;2001-07-14;40000000;HBO Max
+Travessia Eterna;2019-03-11;75000000;HBO
+Convergência Cronológica;2008-12-02;25000000;HBO
+Busca Quântica;2014-06-20;90000000;HBO
+Cascata Celestial;2005-11-15;60000000;Netflix
+Saga Estelar;2016-03-28;35000000;HBO
+Época Encantada;2003-10-09;80000000;HBO
+Sinergia Estelar;2011-05-06;45000000;Netflix
+Catalisador Cósmico;2018-10-22;95000000;HBO Max
+Nexus Nebular;2006-07-17;50000000;HBO Max
+Miragem Quântica;2013-06-20;90000000;HBO
+Matriz Infinita;2000-04-26;30000000;Amazon Prime Video
+Odisseia Galáctica;2015-09-14;110000000;HBO Max
+Protocolo Enigma;2009-06-30;70000000;HBO
+Fluxo Solar;2014-11-12;85000000;Amazon Prime Video
+Paradoxo Paralelo;2022-06-05;120000000;HBO Max
+Enclave Eco;2010-02-18;40000000;Netflix
+Protocolo Pinnacle;2016-07-08;55000000;HBO
+Vórtice Ascendente;2002-12-01;25000000;Netflix
+Travessia Temporal;2013-03-22;95000000;HBO
+Horizonte Estelar;2019-08-17;60000000;Netflix
+Cataclismo Cósmico;2007-05-31;75000000;HBO Max
+Além das Fronteiras;2011-10-15;110000000;Netflix
+Deriva Dimensional;2015-04-09;45000000;Amazon Prime Video
+Nexus Nova;2004-09-28;30000000;Netflix
+Expedição ao Eclipse;2018-11-02;80000000;HBO
+Travessia Eterna;2016-01-30;65000000;HBO
+Riverlino Contra Ataca;2024-01-27;999999;Google Meet

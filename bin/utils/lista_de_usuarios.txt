@@ -1,0 +1,50 @@
+John Doe;1990-05-15;ação,aventura,comédia;3,17,25,42
+Jane Smith;1985-08-22;drama,romance;8,12,19
+Maria Silva;1993-02-10;comédia,drama;5,9,33
+Carlos Oliveira;1988-11-30;ação,suspense,terror;2,11,29,38
+Amanda Johnson;1996-07-18;aventura,ficção científica;1,21,45
+José Santos;1982-04-03;comédia,ação;7,13,20
+Laura Fernandez;1998-09-25;romance,drama;4,16
+Felipe Torres;1987-06-20;animação,comédia;1,27,31
+Sofia Perez;1991-03-12;suspense,terror;6,23,35,47
+Gabriel Hernandez;1984-12-08;ação,aventura,ficção científica;15,22,39
+Ana Costa;1995-01-28;comédia,romance;10,24,41
+Lucas Martins;1989-10-05;ação,suspense;14,28,43
+Paula Oliveira;1997-06-17;drama,comédia;18,30,46
+Marcela Rodriguez;1983-08-11;romance,drama;26,32,48
+Matheus Lima;1994-04-22;comédia,aventura;36,44
+Rafael Alves;1986-11-14;ação,terror;34,37,49
+Bruna Santos;1990-02-03;romance,comédia;40
+Ricardo Gonzales;1981-07-09;aventura,ficção científica;1,5,9
+Camila Souza;1992-09-01;drama,romance;2,6,13
+Thiago Oliveira;1988-01-19;ação,suspense;3,7,10,18
+Isabela Costa;1996-03-27;comédia,drama;8,15,23
+Guilherme Silva;1984-05-08;terror,suspense;4,11,19,24
+Juliana Martins;1987-12-14;romance,aventura;12,16,25,33
+Anderson Ferreira;1993-10-30;comédia,animação;14,17,20
+Fernanda Ramos;1989-06-25;ação,aventura;21,22,29
+Leonardo Pereira;1982-04-02;comédia,drama;26,27,34
+Marina Rocha;1997-08-19;romance,comédia;28,30,35,43
+Pedro Almeida;1985-01-05;terror,suspense;31,36,44
+Vanessa Gonçalves;1991-05-11;ação,ficção científica;32,37,45
+Daniel Barbosa;1986-09-28;comédia,romance;38,40,46
+Jessica Oliveira;1994-11-23;drama,aventura;39,41,47
+Luiz Santos;1983-03-16;ação,suspense;1,42,48
+Patricia Costa;1998-07-07;romance,drama;1,7,43,49
+André Fernandes;1980-12-03;comédia,animação;2,8,44
+Amanda Silva;1990-04-21;ação,aventura;3,9,45
+Eduardo Oliveira;1988-02-15;terror,suspense;4,10,46
+Larissa Sousa;1995-06-08;comédia,romance;11,17,47
+Gabriel Costa;1987-08-29;drama,suspense;12,18,48
+Jessica Santos;1984-11-12;romance,drama;5,13,49
+Lucas Ferreira;1991-03-29;comédia,aventura;6,14,19
+Mariana Almeida;1989-09-05;ação,aventura;15,20,28
+Beatriz Oliveira;1982-05-18;comédia,drama;21,29,36
+Gustavo Rodrigues;1996-01-07;terror,suspense;22,30,37,46
+Natália Gonçalves;1983-07-23;romance,comédia;23,31,38,47
+Rodrigo Silva;1988-10-10;ação,ficção científica;24,32,39,48
+Ana Clara Santos;1993-04-02;comédia,romance;25,33,40,49
+Mauricio Costa;1981-02-16;suspense,terror;26,34,41
+Renata Oliveira;1997-09-18;drama,aventura;27,35,42
+Henrique Ferreira;1985-06-11;comédia,drama;28,36,43,48
+Fernanda Almeida;1992-12-25;ação,suspense;29,37,44
