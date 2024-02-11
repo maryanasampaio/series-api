@@ -27,6 +27,7 @@ class Rotas {
 
     router.get('/series', (Request req) async {
       var todasAsSeries = await Series.series();
+      todasAsSeries = jsonEncode(todasAsSeries);
       return Response.ok(todasAsSeries);
     });
 
@@ -40,7 +41,7 @@ class Rotas {
       }
     });
 
-    router.get('/usuarios/', (Request req) async {
+    router.get('/usuarios', (Request req) async {
       var usuarios = await Usuario.getUsuarios();
       usuarios = jsonEncode(usuarios);
       return Response.ok(usuarios);
