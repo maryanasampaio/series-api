@@ -1,3 +1,35 @@
+# API de Séries da Mary
+Criei uma API de séries que lista séries fictícias e usuários ficticios que possuem séries favoritas.
+
+## Como instalar o projeto
+- Você precisará do dart instalado em sua máquina :0
+
+
+- Clone o repositório em seu computador
+- Após clonar o repositório você deve rodar os seguintes comandos:
+
+`dart pub add shelf` e `dart pub add shelf_router`
+
+Após rodar esses comandos, entre na pasta bin do projeto e rode o seguinte comando:
+`dart servidor.dart`
+
+Após rodar você verá que o projeto foi iniciado na url `http://localhost:8080`
+
+Você pode modificar isso editando o arquivo servidor.dart com o ip e a porta desejado.
+
+Os Endpoints disponíveis no projeto são:
+
+- http://localhost:8080/series
+- http://localhost:8080/serie/id_da_serie
+- http://localhost:8080/usuarios
+- http://localhost:8080/usuario/id_do_usuario
+
+Os ids das séries vão de 1 à 50 e as séries também :)
+
+Faça bom uso.
+
+
+### O que eu preciso fazer:
 - Criar um servidor
 - Criar uma classe de séries
 
