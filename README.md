@@ -1,4 +1,4 @@
-# API de Séries da Mary
+# API de Séries 
 Criei uma API de séries que lista séries fictícias e usuários ficticios que possuem séries favoritas.
 
 ## Como instalar o projeto
